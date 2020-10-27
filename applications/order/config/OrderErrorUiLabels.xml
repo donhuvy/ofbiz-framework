@@ -30,7 +30,7 @@
         <value xml:lang="ro">Un alternateGwpProductId a fost selectionat, dar nici-unul nu este valid sau nu poate fi in stoc pentru ID : ${alternateGwpProductId}</value>
         <value xml:lang="ru">Указан alternateGwpProductId, но код неверен или отсутствует на складе для: ${alternateGwpProductId}</value>
         <value xml:lang="th">alternateGwpProductId อยู่ในตำแหน่ง, แต่ถ้ามไม่มีค่าก็ต้องการรหัสในคลัง : ${alternateGwpProductId}</value>
-        <value xml:lang="vi">Giá trị́ alternateGwpProductId đã chọń, nhưng không còn hợp lệ hoặc không còn tồn tại trong kho với ID: ${alternateGwpProductId}</value>
+        <value xml:lang="vi">Giá trị alternateGwpProductId đã chọn, nhưng không còn hợp lệ hoặc không còn tồn tại trong kho với ID: ${alternateGwpProductId}</value>
         <value xml:lang="zh">输入的alternateGwpProductId无效或不再使用了，标识：${alternateGwpProductId}</value>
         <value xml:lang="zh-TW">輸入的alternateGwpProductId無效或不再使用了ID：${alternateGwpProductId}</value>
     </property>
@@ -62,7 +62,7 @@
         <value xml:lang="ro">O conditie productPromoCond ne-suportata a fost folosita: ${operatorEnumId},  restituit fals, control falit</value>
         <value xml:lang="ru">Использован не поддерживаемое условие productPromoCond: ${operatorEnumId}, возвращается false, проверка не удалась</value>
         <value xml:lang="th">ไม่สนับสนุนเงื่อนไขโปรโมชันของสินค้าที่ใช้: ${operatorEnumId}, แสดงความผิดพลาด, ตรวจสอบความผิดพลาด</value>
-        <value xml:lang="vi">Điều kiện khuyến mãi không hỗ trợ: ${operatorEnumId}, hệ thống trả về không hợp lệ, có thể kiểm tra không thành công</value>
+        <value xml:lang="vi">Điều kiện khuyến mãi không hỗ trợ: ${operatorEnumId}, hệ thống trả về không hợp lệ, ví dụ kiểm tra không thành công</value>
         <value xml:lang="zh">使用了不支持的productPromoCond作为条件：${operatorEnumId}，返回false，检查失败</value>
         <value xml:lang="zh-TW">使用了不支援的productPromoCond作為條件：${operatorEnumId}，返回false，檢查失敗</value>
     </property>
@@ -77,7 +77,7 @@
         <value xml:lang="ro">Un parametru de input productPromoCond ne-suportat (lhs) a fost folosit : ${inputParamEnumId}, restituit fals, control falit</value>
         <value xml:lang="ru">Использован не поддерживаемый входной параметр productPromoCond: ${inputParamEnumId}, возращается false, проверка не удалась</value>
         <value xml:lang="th">ไม่สนับสนุนเงื่อนไขโปรโมชันของสินค้าที่ใส่พารามิเตอร์ (lhs) ที่ใช้ : ${inputParamEnumId}, แสดงความผิดพลาด, ตรวจสอบความผิดพลาด</value>
-        <value xml:lang="vi">Điều kiện khuyến mãi đầu vào (lhs) hiện tại không hỗ trợ: ${inputParamEnumId}, hệ thống trả về không hợp lệ, có thể kiểm tra không thành công</value>
+        <value xml:lang="vi">Điều kiện khuyến mãi đầu vào (lhs) hiện tại không hỗ trợ: ${inputParamEnumId}, hệ thống trả về không hợp lệ, ví dụ kiểm tra không thành công</value>
         <value xml:lang="zh">使用了不支持的productPromoCond作为输入参数：${inputParamEnumId}，返回false，检查失败</value>
         <value xml:lang="zh-TW">使用了不支援的productPromoCond作為輸入參數：${inputParamEnumId}，返回false，檢查失敗</value>
     </property>

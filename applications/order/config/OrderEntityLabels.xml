@@ -100,7 +100,7 @@
         <value xml:lang="ro">Nu Va fi Fixat</value>
         <value xml:lang="ru">Не исправлено</value>
         <value xml:lang="th">ไม่สามารถแก้ไขได้</value>
-        <value xml:lang="vi">Không cố định</value>
+        <value xml:lang="vi">Không sửa</value>
         <value xml:lang="zh">不改正</value>
         <value xml:lang="zh-TW">不改正</value>
     </property>
@@ -117,7 +117,7 @@
         <value xml:lang="ro">Cred ca Functioneaza</value>
         <value xml:lang="ru">Для нас работает</value>
         <value xml:lang="th">งานสำหรับฉัน</value>
-        <value xml:lang="vi">Làm cho tôi</value>
+        <value xml:lang="vi">Với tôi có hoạt động</value>
         <value xml:lang="zh">对我是正确的</value>
         <value xml:lang="zh-TW">對我是正確的</value>
     </property>
@@ -151,7 +151,7 @@
         <value xml:lang="ro">Cerere De Catalog</value>
         <value xml:lang="ru">Запрос каталога</value>
         <value xml:lang="th">คำขอร้องสำหรับหมวดหมู่</value>
-        <value xml:lang="vi">Yêu cầu tài liệu giới thiệu</value>
+        <value xml:lang="vi">Yêu cầu danh mục sản phẩm</value>
         <value xml:lang="zh">目录请求</value>
         <value xml:lang="zh-TW">型錄請求</value>
     </property>
@@ -168,7 +168,7 @@
         <value xml:lang="ro">Cerere Caracteristica</value>
         <value xml:lang="ru">Запрос особенности</value>
         <value xml:lang="th">คำขอร้องสำหรับลักษณะ</value>
-        <value xml:lang="vi">Yêu cầu cho tương lai</value>
+        <value xml:lang="vi">Yêu cầu tính năng</value>
         <value xml:lang="zh">特性请求</value>
         <value xml:lang="zh-TW">特性請求</value>
     </property>
@@ -185,7 +185,7 @@
         <value xml:lang="ro">Cerere Informatie</value>
         <value xml:lang="ru">Запрос информации</value>
         <value xml:lang="th">คำขอร้องสำหรับข้อมูล</value>
-        <value xml:lang="vi">Yêu cầu với Thông tin</value>
+        <value xml:lang="vi">Yêu cầu thông tin</value>
         <value xml:lang="zh">信息请求</value>
         <value xml:lang="zh-TW">資訊請求</value>
     </property>
@@ -288,7 +288,7 @@
         <value xml:lang="ro">Scont</value>
         <value xml:lang="ru">Скидка</value>
         <value xml:lang="th">ส่วนลด</value>
-        <value xml:lang="vi">Khấu trừ</value>
+        <value xml:lang="vi">Chiết khấu</value>
         <value xml:lang="zh">折扣</value>
         <value xml:lang="zh-TW">折扣</value>
     </property>
@@ -390,7 +390,7 @@
         <value xml:lang="ro">Taxa Vanzare</value>
         <value xml:lang="ru">Налог с продаж</value>
         <value xml:lang="th">ภาษีการขาย</value>
-        <value xml:lang="vi">Thuế kinh doanh</value>
+        <value xml:lang="vi">Thuế bán hàng</value>
         <value xml:lang="zh">营业税</value>
         <value xml:lang="zh-TW">營業稅</value>
     </property>
@@ -456,7 +456,7 @@
         <value xml:lang="nl">Blacklist - Adres</value>
         <value xml:lang="pt-BR">Lista negra de endereços</value>
         <value xml:lang="th">ที่อยู่</value>
-        <value xml:lang="vi">Địa chỉ Danh sách đen</value>
+        <value xml:lang="vi">Địa chỉ nằm trong danh sách đen</value>
         <value xml:lang="zh">地址黑名单</value>
         <value xml:lang="zh-TW">位址黑名單</value>
     </property>
@@ -471,7 +471,7 @@
         <value xml:lang="nl">Blacklist - Kredietkaart</value>
         <value xml:lang="pt-BR">Lista negra de cartões de crédito</value>
         <value xml:lang="th">บัตรเครดิต</value>
-        <value xml:lang="vi">Danh sách đen thẻ tín dụng</value>
+        <value xml:lang="vi">Thẻ tín dụng trong danh sách đen</value>
         <value xml:lang="zh">信用卡黑名单</value>
         <value xml:lang="zh-TW">信用卡黑名單</value>
     </property>
@@ -486,7 +486,7 @@
         <value xml:lang="nl">Blacklist - Email</value>
         <value xml:lang="pt-BR">Lista negra de e-mails</value>
         <value xml:lang="th">อีเมล</value>
-        <value xml:lang="vi">Danh sách đen thư điện tử</value>
+        <value xml:lang="vi">Thư điện tử trong danh sách đen</value>
         <value xml:lang="zh">电子邮件黑名单</value>
         <value xml:lang="zh-TW">電子郵件黑名單</value>
     </property>
@@ -501,7 +501,7 @@
         <value xml:lang="nl">Blacklist - Telefoon</value>
         <value xml:lang="pt-BR">Lista negra de telefones</value>
         <value xml:lang="th">หมายเลขโทรศัพท์</value>
-        <value xml:lang="vi">Danh sách đen số điện thoại</value>
+        <value xml:lang="vi">Điện thoại trong danh sách đen</value>
         <value xml:lang="zh">电话黑名单</value>
         <value xml:lang="zh-TW">電話黑名單</value>
     </property>
@@ -530,7 +530,7 @@
         <value xml:lang="nl">Bulkorder - item</value>
         <value xml:lang="pt-BR">Item no atacado</value>
         <value xml:lang="th">รายการความจุ</value>
-        <value xml:lang="vi">Hàng hóa đặt hàng kiểu Rác</value>
+        <value xml:lang="vi">Đặt hàng số lượng lớn</value>
         <value xml:lang="zh">大宗订单明细</value>
         <value xml:lang="zh-TW">大宗訂單細項</value>
     </property>
@@ -544,7 +544,7 @@
         <value xml:lang="nl">Product</value>
         <value xml:lang="pt-BR">Item de pedido</value>
         <value xml:lang="th">รายการ</value>
-        <value xml:lang="vi">Hàng hóa đặt hàng</value>
+        <value xml:lang="vi">Đặt hàng hàng hóa</value>
         <value xml:lang="zh">产品订单明细</value>
         <value xml:lang="zh-TW">產品訂單細項</value>
     </property>
@@ -558,7 +558,7 @@
         <value xml:lang="nl">Huur/Verhuur</value>
         <value xml:lang="pt-BR">Item de aluguel</value>
         <value xml:lang="th">รายการการเช่า</value>
-        <value xml:lang="vi">Hàng hóa đặt hàng kiểu Thuê</value>
+        <value xml:lang="vi">RENTAL_ORDER_ITEM</value>
         <value xml:lang="zh">租赁订单明细</value>
         <value xml:lang="zh-TW">租賃訂單細項</value>
     </property>
